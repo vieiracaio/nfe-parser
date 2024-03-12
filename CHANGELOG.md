@@ -3,3 +3,4 @@
 - 2024-02-29 feat: parser inicial de xml nfe
 - 2024-02-29 feat: listagem de lancamentos com filtro
 - 2024-02-29 feat: busca por razao social
+- 2024-03-12 suporte a ambiente staging
