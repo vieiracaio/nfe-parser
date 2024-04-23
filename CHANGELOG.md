@@ -6,3 +6,4 @@
 - 2024-03-12 suporte a ambiente staging
 - 2024-03-12 fix: arredonda centavos no total
 - 2024-04-15 ajusta CORS pro frontend local
+- 2024-04-23 fix n+1 na query de lancamentos
