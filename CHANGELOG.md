@@ -9,3 +9,4 @@
 - 2024-04-23 fix n+1 na query de lancamentos
 - 2024-05-02 hotfix: parse de data BR dd/mm/yyyy
 - 2024-06-13 ajusta scripts do package.json
+- 2024-06-26 atualiza readme
