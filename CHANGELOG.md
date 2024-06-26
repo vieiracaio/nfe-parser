@@ -10,3 +10,4 @@
 - 2024-05-02 hotfix: parse de data BR dd/mm/yyyy
 - 2024-06-13 ajusta scripts do package.json
 - 2024-06-26 atualiza readme
+- 2024-06-26 organiza pastas src/
