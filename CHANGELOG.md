@@ -12,3 +12,4 @@
 - 2024-06-26 atualiza readme
 - 2024-06-26 organiza pastas src/
 - 2024-06-28 extrai helper de dinheiro
+- 2024-06-28 refactor: tira god object de servico
