@@ -11,3 +11,4 @@
 - 2024-06-13 ajusta scripts do package.json
 - 2024-06-26 atualiza readme
 - 2024-06-26 organiza pastas src/
+- 2024-06-28 extrai helper de dinheiro
