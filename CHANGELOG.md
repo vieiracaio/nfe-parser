@@ -14,3 +14,4 @@
 - 2024-06-28 extrai helper de dinheiro
 - 2024-06-28 refactor: tira god object de servico
 - 2024-06-28 ainda quebrado, nao mergear
+- 2024-07-03 feat: listagem de lancamentos com filtro
