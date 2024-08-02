@@ -16,3 +16,4 @@
 - 2024-06-28 ainda quebrado, nao mergear
 - 2024-07-03 feat: listagem de lancamentos com filtro
 - 2024-08-02 suporte a ambiente staging
+- 2024-08-02 adiciona testes do parser
