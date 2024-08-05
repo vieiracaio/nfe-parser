@@ -17,3 +17,4 @@
 - 2024-07-03 feat: listagem de lancamentos com filtro
 - 2024-08-02 suporte a ambiente staging
 - 2024-08-02 adiciona testes do parser
+- 2024-08-05 feat: webhook de pix (stub)
