@@ -19,3 +19,4 @@
 - 2024-08-02 adiciona testes do parser
 - 2024-08-05 feat: webhook de pix (stub)
 - 2024-08-07 middleware de request id
+- 2024-08-07 fix: timezone America/Sao_Paulo no relatorio
