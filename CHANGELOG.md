@@ -21,3 +21,4 @@
 - 2024-08-07 middleware de request id
 - 2024-08-07 fix: timezone America/Sao_Paulo no relatorio
 - 2024-09-09 fix: arredonda centavos no total
+- 2024-09-17 rollback parcial do filtro de mes
