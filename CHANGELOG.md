@@ -23,3 +23,4 @@
 - 2024-09-09 fix: arredonda centavos no total
 - 2024-09-17 rollback parcial do filtro de mes
 - 2024-09-17 rollback parcial do filtro de mes
+- 2024-09-17 atualiza readme
