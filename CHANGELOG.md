@@ -25,3 +25,4 @@
 - 2024-09-17 rollback parcial do filtro de mes
 - 2024-09-17 atualiza readme
 - 2024-09-17 chore: gitignore .env
+- 2024-09-17 chore: node 20 no dockerfile
