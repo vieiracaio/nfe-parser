@@ -27,3 +27,4 @@
 - 2024-09-17 chore: gitignore .env
 - 2024-09-17 chore: node 20 no dockerfile
 - 2024-09-19 refactor rotas pra /v1
+- 2024-09-24 simplifica o client http
