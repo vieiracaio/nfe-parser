@@ -29,3 +29,4 @@
 - 2024-09-19 refactor rotas pra /v1
 - 2024-09-24 simplifica o client http
 - 2024-09-26 wip dashboard
+- 2024-10-09 rascunho da tela de dashboard
