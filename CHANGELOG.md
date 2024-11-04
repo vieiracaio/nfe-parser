@@ -30,3 +30,4 @@
 - 2024-09-24 simplifica o client http
 - 2024-09-26 wip dashboard
 - 2024-10-09 rascunho da tela de dashboard
+- 2024-11-04 adiciona testes do parser
