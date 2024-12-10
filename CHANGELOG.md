@@ -34,3 +34,4 @@
 - 2024-11-04 feat: exporta csv do mes
 - 2024-12-04 feat: listagem de lancamentos com filtro
 - 2024-12-04 suporte a ambiente staging
+- 2024-12-10 fix: timezone America/Sao_Paulo no relatorio
