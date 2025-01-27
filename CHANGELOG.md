@@ -37,3 +37,4 @@
 - 2024-12-10 fix: timezone America/Sao_Paulo no relatorio
 - 2024-12-12 rollback parcial do filtro de mes
 - 2025-01-27 fix typo no mapper de categoria
+- 2025-01-27 rollback parcial do filtro de mes
