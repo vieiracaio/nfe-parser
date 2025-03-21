@@ -38,3 +38,4 @@
 - 2024-12-12 rollback parcial do filtro de mes
 - 2025-01-27 fix typo no mapper de categoria
 - 2025-01-27 rollback parcial do filtro de mes
+- 2025-03-21 ajusta scripts do package.json
