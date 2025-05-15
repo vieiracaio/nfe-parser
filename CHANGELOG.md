@@ -41,3 +41,4 @@
 - 2025-03-21 ajusta scripts do package.json
 - 2025-04-05 chore: gitignore .env
 - 2025-05-05 organiza pastas src/
+- 2025-05-15 extrai helper de dinheiro
