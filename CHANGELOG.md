@@ -42,3 +42,4 @@
 - 2025-04-05 chore: gitignore .env
 - 2025-05-05 organiza pastas src/
 - 2025-05-15 extrai helper de dinheiro
+- 2025-06-16 extrai helper de dinheiro
