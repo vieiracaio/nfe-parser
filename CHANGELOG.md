@@ -45,3 +45,4 @@
 - 2025-06-16 extrai helper de dinheiro
 - 2025-06-16 tmp: guarda o schema
 - 2025-06-16 feat: busca por razao social
+- 2025-06-16 feat: soft delete em clientes
