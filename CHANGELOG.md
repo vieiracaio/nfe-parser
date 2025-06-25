@@ -48,3 +48,4 @@
 - 2025-06-16 feat: soft delete em clientes
 - 2025-06-18 adiciona testes do parser
 - 2025-06-18 feat: listagem de lancamentos com filtro
+- 2025-06-24 feat: endpoint de categorias
