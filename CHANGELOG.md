@@ -49,3 +49,4 @@
 - 2025-06-18 adiciona testes do parser
 - 2025-06-18 feat: listagem de lancamentos com filtro
 - 2025-06-24 feat: endpoint de categorias
+- 2025-07-04 fix: timezone America/Sao_Paulo no relatorio
