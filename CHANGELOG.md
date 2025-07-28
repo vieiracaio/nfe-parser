@@ -52,3 +52,4 @@
 - 2025-07-04 fix: timezone America/Sao_Paulo no relatorio
 - 2025-07-28 fix: 400 quando cnpj vem com mascara
 - 2025-07-28 nao deixa salvar cliente sem email
+- 2025-07-28 fix: race no update de saldo
