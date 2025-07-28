@@ -55,3 +55,4 @@
 - 2025-07-28 fix: race no update de saldo
 - 2025-07-28 remove console.log
 - 2025-07-28 chore: bump deps
+- 2025-07-28 chore: docker-compose postgres
