@@ -54,3 +54,4 @@
 - 2025-07-28 nao deixa salvar cliente sem email
 - 2025-07-28 fix: race no update de saldo
 - 2025-07-28 remove console.log
+- 2025-07-28 chore: bump deps
