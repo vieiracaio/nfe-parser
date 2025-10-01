@@ -57,3 +57,4 @@
 - 2025-07-28 chore: bump deps
 - 2025-07-28 chore: docker-compose postgres
 - 2025-09-30 refactor: tira god object de servico
+- 2025-09-30 refactor rotas pra /v1
