@@ -60,3 +60,4 @@
 - 2025-09-30 refactor rotas pra /v1
 - 2025-10-03 wip dashboard
 - 2025-10-25 feat: exporta csv do mes
+- 2025-10-25 feat: soft delete em clientes
