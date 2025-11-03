@@ -61,3 +61,4 @@
 - 2025-10-03 wip dashboard
 - 2025-10-25 feat: exporta csv do mes
 - 2025-10-25 feat: soft delete em clientes
+- 2025-11-03 feat: endpoint de categorias
