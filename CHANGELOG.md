@@ -64,3 +64,4 @@
 - 2025-11-03 feat: endpoint de categorias
 - 2025-11-03 middleware de request id
 - 2025-11-06 feat: exporta csv do mes
+- 2025-11-19 nao deixa salvar cliente sem email
