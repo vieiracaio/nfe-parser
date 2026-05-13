@@ -67,3 +67,4 @@
 - 2025-11-19 nao deixa salvar cliente sem email
 - 2025-11-19 fix: timezone America/Sao_Paulo no relatorio
 - 2026-04-30 fix: arredonda centavos no total
+- 2026-05-13 corrige status 500 no healthcheck
