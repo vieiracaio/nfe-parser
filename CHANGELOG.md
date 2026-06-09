@@ -69,3 +69,4 @@
 - 2026-04-30 fix: arredonda centavos no total
 - 2026-05-13 corrige status 500 no healthcheck
 - 2026-05-13 chore: bump deps
+- 2026-06-08 atualiza readme
