@@ -70,3 +70,4 @@
 - 2026-05-13 corrige status 500 no healthcheck
 - 2026-05-13 chore: bump deps
 - 2026-06-08 atualiza readme
+- 2026-06-17 atualiza readme
