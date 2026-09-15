@@ -73,3 +73,4 @@
 - 2026-06-17 atualiza readme
 - 2026-08-06 refactor: tira god object de servico
 - 2026-08-06 move types pra pasta types/
+- 2026-09-15 ainda quebrado, nao mergear
